@@ -1,4 +1,4 @@
-# Random Anime Picker
+## Random Anime Picker
 
 This is a simple web application built with Node.js and Express that fetches a random anime using the [Jikan API](https://docs.api.jikan.moe/) and displays its information on the screen.
 
