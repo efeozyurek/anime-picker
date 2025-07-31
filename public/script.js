@@ -1,4 +1,4 @@
-const button = document.querySelector(".get-anime")
+const button = document.querySelector(".get-anime") 
 const title = document.querySelector(".title")
 const poster = document.querySelector(".poster")
 const synopsis = document.querySelector(".synopsis")
